@@ -3,7 +3,7 @@
 
 **Установка кода:**
 ```
-None
+git clone https://github.com/0xSn1kky/TGddosbot.git
 ```
 
 **Установка модулей:**
